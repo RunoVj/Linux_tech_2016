@@ -1,0 +1,10 @@
+    1  pwd
+    2  mkdir i.litik
+    3  cd i.litik/
+    4  ps >> ps.out 
+    5  ps -a  > ps.out 
+    6  free -h > mem.out
+    7  df -h > disk.out
+    8  mkdir -p  Dir1/Dir{3..5}
+    9  mkdir -p  Dir2/Dir{6..8}
+   10  history > history.out
